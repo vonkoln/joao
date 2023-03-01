@@ -12,7 +12,7 @@ export default  [
     file: "maos.mp3",
   },
   {
-    title:"3 - Amor Estou Sofrendo / Que Nem Iôiô / Doce Inimigo",
+    title:"3 - Amor Estou Sofrendo, Que Nem Iôiô, Doce Inimigo",
     artist: "Jorge Aragão",
     cover: "sofre.jpg",
     file: "sofre.mp3",
