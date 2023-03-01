@@ -40,6 +40,12 @@ export default  [
     artist: "João Nogueira",
     cover: "espelho.jpg",
     file: "espelho.mp3",
+  },
+  {
+    title:"8 - Verdade Chinesa",
+    artist: "Emílio Santiago",
+    cover: "verdade.jpg",
+    file: "verdade.mp3",
   }
  ];
 
