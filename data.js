@@ -28,6 +28,18 @@ export default  [
     artist: "Toninho Geraes",
     cover: "fila.jfif",
     file: "fila.mp3",
+  },
+  {
+    title:"6 - Nem vem que não tem",
+    artist: "Wilson Simonal",
+    cover: "nem.jpg",
+    file: "nem.mp3",
+  },
+  {
+    title:"7 - Espelho",
+    artist: "João Nogueira",
+    cover: "espelho.jpg",
+    file: "espelho.mp3",
   }
  ];
 
