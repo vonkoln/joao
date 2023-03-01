@@ -46,6 +46,18 @@ export default  [
     artist: "Emílio Santiago",
     cover: "verdade.jpg",
     file: "verdade.mp3",
+  },
+  {
+    title:"9 - Papel Machê",
+    artist: "João Bosco",
+    cover: "papel.jfif",
+    file: "papel.mp3",
+  },
+  {
+    title:"10 - Samurai ft. Stevie Wonder",
+    artist: "Djavan",
+    cover: "samurai.jfif",
+    file: "samurai.mp3",
   }
  ];
 
